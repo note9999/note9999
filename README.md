@@ -48,7 +48,7 @@ sanghoon703@naver.com
 # ⌨️ Work Experience & Projects
 
 - 스마트도시협회 SW개발자 2023.03.22~
-- 스마트도시협회 홈페이지 제작 http://wsce.smartcity.or.kr/
+- 스마트도시협회 홈페이지 제작
 - 스마트도시안전망서비스 유지보수 및 고도화
 
 
