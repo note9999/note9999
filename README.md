@@ -30,7 +30,7 @@ sanghoon703@naver.com
 
 ## Backend
 
-- Java
+- Java, python, c
 - Spring MVC, Spring Boot
 - Maven, Gradle
 - Eclipse, Visual Studio Code , IntelliJ IDEA
