@@ -38,7 +38,7 @@ sanghoon703@naver.com
 
 ## DevOps
 
-- MySQL, Oracle, MariaDB, PostgreSQL
+- MySQL, Oracle, MariaDB, PostgreSQL, Tibeo
 
 ## Frontend
 
